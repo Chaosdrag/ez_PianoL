@@ -7,8 +7,8 @@ Output : A text or Midi file showing what notes are played and when
 
 Tech Stack: 
 
-Video download : pytube
-Frame extraction :OpenCv
-Key dectection : YOLOv5
-Note mapping : NumPy
+Video download : pytube,
+Frame extraction :OpenCv,
+Key dectection : YOLOv5,
+Note mapping : NumPy,
 Output formatting : Plain text (for now)
